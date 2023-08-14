@@ -27,5 +27,6 @@ return {
   { import = "astrocommunity.scrolling.neoscroll-nvim" },
   { import = "astrocommunity.scrolling.satellite-nvim" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
+  -- { import = "astrocommunity.editing-support.chatgpt-nvim" },
   -- TODO
 }
