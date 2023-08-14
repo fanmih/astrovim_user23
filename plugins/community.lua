@@ -12,6 +12,7 @@ return {
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.toml" },
+  { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.motion.harpoon" },
   { import = "astrocommunity.motion.leap-nvim" },
   { import = "astrocommunity.motion.flit-nvim" },
