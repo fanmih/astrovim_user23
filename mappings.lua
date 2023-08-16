@@ -36,7 +36,7 @@ return {
 
     -- #NOTICE Added for ChatGPT
     ["<leader>a"] = {
-      name = "ChatGPT",
+      name = "AI 👽 ChatGPT",
       c = { "<cmd>ChatGPT<CR>", "ChatGPT" },
       e = { "<cmd>ChatGPTEditWithInstruction<CR>", "Edit with instruction", mode = { "n", "v" } },
       g = { "<cmd>ChatGPTRun grammar_correction<CR>", "Grammar Correction", mode = { "n", "v" } },
