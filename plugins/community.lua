@@ -6,6 +6,14 @@ return {
 
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.colorscheme.rose-pine" },
+  {
+    "rose-pine",
+    event = "VeryLazy",
+  },
+  {
+    "astrotheme",
+    event = "VeryLazy",
+  },
   { import = "astrocommunity.pack.ansible" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.bash" },
